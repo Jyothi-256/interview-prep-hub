@@ -77,6 +77,6 @@ npm run dev
 
 ## 👩‍💻 Author
 
-** Makireddy Param Jyothi Makireddy**
+** Makireddy Param Jyothi **
 
 GitHub: https://github.com/Jyothi-256
