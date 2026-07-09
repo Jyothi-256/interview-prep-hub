@@ -1,16 +1,71 @@
-# React + Vite
+# 🎯 Interview Prep Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that helps students prepare for technical and HR interviews by providing topic-wise interview questions and answers.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 📘 Java Interview Questions
+- 🐍 Python Interview Questions
+- 📚 DSA Interview Questions
+- 🗄️ DBMS Interview Questions
+- 💻 Operating Systems Questions
+- 👨‍💼 HR Interview Questions
+- 🎯 Difficulty Selection (Easy)
+- ⚡ Clean and Simple User Interface
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6)
+- CSS
+- Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+interview-prep-hub/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── questions.js
+│   └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Jyothi-256/interview-prep-hub.git
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📌 Future Enhancements
+
+- AI-powered interview question generation
+- Medium and Hard difficulty levels
+- Company-wise interview questions
+- Search functionality
+- PDF download
+- Dark mode
+
+## 👩‍💻 Author
+
+**Jyothi Makireddy**
+
+GitHub: https://github.com/Jyothi-256
