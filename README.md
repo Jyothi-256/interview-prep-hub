@@ -2,6 +2,12 @@
 
 A React-based web application that helps students prepare for technical and HR interviews by providing topic-wise interview questions and answers.
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](./screenshots/home.png)
+
 ### Interview Questions
 
 ![Interview Questions](./screenshots/questions.png)
