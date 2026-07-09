@@ -31,8 +31,11 @@ function App() {
         <option>Medium</option>
         <option>Hard</option>
       </select>
+     <button onClick={handleGenerate}>
+  Generate Questions
+</button>
 
-      <button
+<button
   onClick={() => setGeneratedQuestions([])}
   style={{
     marginTop: "10px",
@@ -41,6 +44,7 @@ function App() {
 >
   Clear
 </button>
+      
 
       <div className="result">
         {generatedQuestions.map((item, index) => (
